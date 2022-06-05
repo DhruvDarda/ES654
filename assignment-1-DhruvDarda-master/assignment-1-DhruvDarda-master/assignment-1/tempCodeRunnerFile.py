@@ -1,0 +1,1 @@
+ax1.scatter(X_test.iloc[:,0], X_test.iloc[:,1], c=y_test, s=50, cmap='autumn')
