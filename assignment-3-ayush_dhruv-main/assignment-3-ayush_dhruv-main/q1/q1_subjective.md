@@ -1,0 +1,3 @@
+The train accuracy is 0.49 and the test accuracy is 0.43. The train points and test points which lie which in the other quadrant as classified by the logistic regression boundary are misclassified because logistic regression boundary is linear and the dataset is not linearly separable.
+
+The convergence is faster as L2 norm restricts the theta between a certain range of values, and convergence is faster in this smaller area.
